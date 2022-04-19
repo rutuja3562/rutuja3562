@@ -54,10 +54,9 @@ NordStrome Rack Clone</a><h3>
 . Sort option<br>
 . Integrated Payment gateways<br>
 
-  ### Deployed Projects
-
-### <h3><a "https://zara-roan.vercel.app/">
-NordStrome Rack Clone</a><h3>
+### Deployed Projects
+### <h3><a href="https://zara-rutuja3562.vercel.app/">
+ara Home Clone</a><h3>
 <p style=" border-bottom:1px solid black"></p>
 <!-- border-bottom = "1px solid white"  -->
  <h5>Features <br></h5>
