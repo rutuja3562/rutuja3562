@@ -56,8 +56,8 @@ NordStrome Rack Clone</a><h3>
 
   ### Deployed Projects
 
-### <a href="nordstrom-rack-clone.vercel.app">
-Zara Home Clone </a>
+###  <h3><a href="https://stunning-cactus-ed04ba.netlify.app">
+ara Home Clone</a><h3>
 <p style=" border-bottom:1px solid black"></p>
 <!-- border-bottom = "1px solid white"  -->
  <h5>Features <br></h5>
