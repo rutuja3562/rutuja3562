@@ -17,7 +17,7 @@
 
 <img alt="Coding" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Coding.gif" width="300" align="right"/>
 
-### 🛠 &nbsp;__Skills__ <br>
+### 🛠 &nbsp;Skills<br>
 Javascript, HTML, CSS, Node, Express, React, Bootstarp.
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -42,9 +42,9 @@ Javascript, HTML, CSS, Node, Express, React, Bootstarp.
 <a href="mailto:rspatil3562@gmail.com"><img src="https://img.shields.io/badge/-rspatil3562@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://medium.com/@rspatil3562"><img src="https://img.shields.io/badge/@rspatil3562-12100E?style=flat&logo=medium&logoColor=white"/></a>
 
-### Deployed Projects
+### Deployed Projects<br>
 
-<a href="nordstrom-rack-clone.vercel.app">
+### <a href="nordstrom-rack-clone.vercel.app">
 NordStrome Rack Clone </a>
 <p style=" border-bottom:1px solid black"></p>
 <!-- border-bottom = "1px solid white"  -->
@@ -57,7 +57,7 @@ NordStrome Rack Clone </a>
 
   ### Deployed Projects
 
-<a href="nordstrom-rack-clone.vercel.app">
+### <a href="nordstrom-rack-clone.vercel.app">
 Zara Home Clone </a>
 <p style=" border-bottom:1px solid black"></p>
 <!-- border-bottom = "1px solid white"  -->
