@@ -1,10 +1,3 @@
-<style>
-  .newhr{
-    border:none;
-    border-top: 1px solid black;
-  }
-</style>
-
 ![Rutuja Patil](https://appetiser.com.au/wp-content/uploads/2019/04/Most-Loved-And-Hated-Programming-Languages.png) 
 
 <img alt="Hand_Wave" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Hand_Wave.gif" width='70' align="left"/><h2> I'm Rutuja</h2>
@@ -43,14 +36,42 @@ Javascript, HTML, CSS, Node, Express, React, Bootstarp.
 </p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="left">
 <!-- <a href="https://www.silaskati.com"><img src="https://img.shields.io/badge/-silaskati.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/rutu-patil/"><img src="https://img.shields.io/badge/-rutujapatil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rspatil3562@gmail.com"><img src="https://img.shields.io/badge/-rspatil3562@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://medium.com/@rspatil3562"><img src="https://img.shields.io/badge/@rspatil3562-12100E?style=flat&logo=medium&logoColor=white"/></a>
 
+### Deployed Projects
 
+<a href="nordstrom-rack-clone.vercel.app">
+NordStrome Rack Clone </a>
+<p style=" border-bottom:1px solid black"></p>
+<!-- border-bottom = "1px solid white"  -->
+ <h5>Features <br></h5>
+. User authentication system on Sign-in/Sign-up<br>
+. Product Page<br>
+. Add to Cart<br>
+. Sort option<br>
+. Integrated Payment gateways<br>
+
+  ### Deployed Projects
+
+<a href="nordstrom-rack-clone.vercel.app">
+Zara Home Clone </a>
+<p style=" border-bottom:1px solid black"></p>
+<!-- border-bottom = "1px solid white"  -->
+ <h5>Features <br></h5>
+. User authentication system on Sign-in/Sign-up<br>
+. Product Page<br>
+. Add to Cart<br>
+. wishlist feature<br>
+. Integrated Payment gateways<br>
+
+  
+  
+  
+  
 <!-- <a href="https://twitter.com/"><img src="https://img.shields.io/badge/@Rutuja3562-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a> -->
 <!-- <a href="https://instagram.com/silaskanth"><img src="https://img.shields.io/badge/-@silaskanth-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <!-- <a href="https://facebook.com/silaskanth"><img src="https://img.shields.io/badge/-@silaskanth-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
