@@ -1,4 +1,9 @@
-
+<style>
+  .newhr{
+    border:none;
+    border-top: 1px solid black;
+  }
+</style>
 
 ![Rutuja Patil](https://appetiser.com.au/wp-content/uploads/2019/04/Most-Loved-And-Hated-Programming-Languages.png) 
 
@@ -19,18 +24,16 @@
 
 <img alt="Coding" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Coding.gif" width="300" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
-
-__Skills__ <br>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+### 🛠 &nbsp;__Skills__ <br>
+Javascript, HTML, CSS, Node, Express, React, Bootstarp.
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
 <!-- <p align="center">
 <a href="https://github.com/SilasKati">
@@ -38,7 +41,6 @@ __Skills__ <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SilasKati&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p> -->
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
