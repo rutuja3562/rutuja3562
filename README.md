@@ -43,7 +43,7 @@ Javascript, HTML, CSS, Node, Express, React, Bootstarp.
 <a href="https://medium.com/@rspatil3562"><img src="https://img.shields.io/badge/@rspatil3562-12100E?style=flat&logo=medium&logoColor=white"/></a>
 
 ### Deployed Projects<br>
-### <h3><a href="https://nordstrom-rack-clone-c41sa2u3h-rutuja3562.vercel.app/">
+### <h3><a href="https://vercel.com/rutuja3562/rutuja-patil">
 NordStrome Rack Clone</a><h3>
 <p style=" border-bottom:1px solid black"></p>
 <!-- border-bottom = "1px solid white"  -->
