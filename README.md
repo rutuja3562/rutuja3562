@@ -4,7 +4,10 @@
 
 <br>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; About Me
+
+Observant and detailed oriented aspiring Full-Stack Web developer. Passionate about implementing and launching new projects. Self-motivated and curious with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging workspace.
+
 
 <!-- - 😄 Pronouns: __he/him/his__. -->
 - 💡 &nbsp;I like to explore new technologies and develop robust and efficient user friendly websites.
@@ -42,29 +45,28 @@ Javascript, HTML, CSS, Node, Express, React, Bootstarp.
 <a href="mailto:rspatil3562@gmail.com"><img src="https://img.shields.io/badge/-rspatil3562@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://medium.com/@rspatil3562"><img src="https://img.shields.io/badge/@rspatil3562-12100E?style=flat&logo=medium&logoColor=white"/></a>
 
-### Deployed Projects<br>
+<!-- ### Deployed Projects<br>
 ### <h3><a href="https://rutuja-patil.vercel.app/">
 NordStrome Rack Clone</a><h3>
 <p style=" border-bottom:1px solid black"></p>
-<!-- border-bottom = "1px solid white"  -->
  <h5>Features <br></h5>
 . User authentication system on Sign-in/Sign-up<br>
 . Product Page<br>
 . Add to Cart<br>
 . Sort option<br>
-. Integrated Payment gateways<br>
+. Integrated Payment gateways<br> -->
 
-### Deployed Projects
+<!-- ### Deployed Projects
 ### <h3><a href="https://zara-rutuja3562.vercel.app/">
  Zara Home Clone</a><h3>
-<p style=" border-bottom:1px solid black"></p>
+<p style=" border-bottom:1px solid black"></p> -->
 <!-- border-bottom = "1px solid white"  -->
- <h5>Features <br></h5>
+<!--  <h5>Features <br></h5>
 . User authentication system on Sign-in/Sign-up<br>
 . Product Page<br>
 . Add to Cart<br>
 . wishlist feature<br>
-. Integrated Payment gateways<br>
+. Integrated Payment gateways<br> -->
 
   
   
