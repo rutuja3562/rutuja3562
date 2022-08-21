@@ -56,5 +56,5 @@ Observant and detailed oriented aspiring Full-Stack Web developer. Passionate ab
 
   
 </a>  
-</a> -->
+
 </p>
