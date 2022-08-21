@@ -44,7 +44,7 @@ Javascript, HTML, CSS, Node, Express, React, Bootstarp.
 <a href="https://www.linkedin.com/in/rutu-patil/"><img src="https://img.shields.io/badge/-rutujapatil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rspatil3562@gmail.com"><img src="https://img.shields.io/badge/-rspatil3562@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://medium.com/@rspatil3562"><img src="https://img.shields.io/badge/@rspatil3562-12100E?style=flat&logo=medium&logoColor=white"/></a>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api? username=rutuja3562&theme=radical)
 <!-- ### Deployed Projects<br>
 ### <h3><a href="https://rutuja-patil.vercel.app/">
 NordStrome Rack Clone</a><h3>
