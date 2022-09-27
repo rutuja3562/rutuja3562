@@ -9,12 +9,14 @@ Observant and detailed oriented aspiring Full-Stack Web developer. Passionate ab
 
 <!-- - 😄 Pronouns: __he/him/his__. -->
 - 💡 &nbsp;I like to explore new technologies and develop robust and efficient user friendly websites.
-- 🎓 &nbsp;I'm currently pursuing Full Stack Web Development program at the Masai School, Bengaluru.
-- ✍️ &nbsp;In my free time, I pursue online courses.
-- 💬 &nbsp;I'm completely open to discussions and getting to know each other.
-- ✉️ &nbsp;You can shoot me an email at rspatil3562@gmail.com...!!! I'll try to respond as soon as I can.
-<!-- - 📄 &nbsp;Please have a look at my [Résumé](http://www.silaskati.com/) for more details about me. -->
 
+- 🌱 I’m currently learning React & Redux
+
+- 💬 Ask me about JavaScript and MERN Stack
+
+- ✉️ &nbsp;How to reach me rspatil3562@gmail.com
+
+<!-- - 📄 &nbsp;Please have a look at my [Résumé](http://www.silaskati.com/) for more details about me. -->
 
 <img alt="Coding" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Coding.gif" width="300" align="right"/>
 
