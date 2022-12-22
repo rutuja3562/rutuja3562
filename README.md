@@ -1,4 +1,4 @@
-![Rutuja Patil](https://appetiser.com.au/wp-content/uploads/2019/04/Most-Loved-And-Hated-Programming-Languages.png) 
+<!-- ![Rutuja Patil](https://appetiser.com.au/wp-content/uploads/2019/04/Most-Loved-And-Hated-Programming-Languages.png)  -->
 
 <img alt="Hand_Wave" src="https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Hand_Wave.gif" width='70' align="left"/><h2> I'm Rutuja</h2>
 
