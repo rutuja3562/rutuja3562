@@ -10,8 +10,6 @@ Diligent and detail-oriented Full-Stack Web developer with a passion for impleme
 <!-- - 😄 Pronouns: __he/him/his__. -->
 - 💡 &nbsp;I like to explore new technologies and develop robust and efficient user friendly websites.
 
-- 🌱 I’m currently learning React & Redux
-
 - 💬 Ask me about JavaScript and MERN Stack
 
 - ✉️ &nbsp;How to reach me rspatil3562@gmail.com
