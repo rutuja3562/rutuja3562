@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-Observant and detailed oriented aspiring Full-Stack Web developer. Passionate about implementing and launching new projects. Self-motivated and curious with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging workspace.
+Diligent and detail-oriented Full-Stack Web developer with a passion for implementing and launching innovative projects. Possessing a natural curiosity and self-motivation, maintain a keen interest in crafting user-centric products. Enthusiastic about refining skills in dynamic and challenging environments, commitment to continuous learning and growth is paramount.
 
 
 <!-- - 😄 Pronouns: __he/him/his__. -->
